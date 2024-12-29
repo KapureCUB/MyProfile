@@ -38,8 +38,8 @@ nav ul li a:hover {
 }
 
 section {
-    padding: 1px; /* 20px; */
-    margin-top: 60px;
+    padding: 100px 20px; 
+    margin-top: 600px;
 }
 
 #home {
